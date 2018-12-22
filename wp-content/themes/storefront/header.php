@@ -27,7 +27,9 @@
 
 	<header id="masthead" class="" role="banner" style="<?php /*storefront_header_styles(); */?>">
        <div class="container">
-           <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
+           <?php wp_megamenu(array('menu' => '24')); ?>
+           <?php wp_megamenu(array('theme_location' => 'handheld')); ?>
+           <?php wp_megamenu(array('theme_location' => 'left-wp-mobile-menu')); ?>
        </div>
         <?php echo do_shortcode('[rev_slider alias="trangchu"]')?>
 

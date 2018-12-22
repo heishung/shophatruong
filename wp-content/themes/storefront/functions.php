@@ -69,8 +69,3 @@ if ( version_compare( get_bloginfo( 'version' ), '4.7.3', '>=' ) && ( is_admin()
  * Note: Do not add any custom code here. Please use a custom plugin so that your customizations aren't lost during updates.
  * https://github.com/woocommerce/theme-customisations
  */
-function tp_homepage_blocks(){
-    remove_action( 'storefront_header', 'storefront_header_container', 0 );
-    remove_action( 'storefront_header', 'storefront_primary_navigation', 50 );
-}
-add_action( 'ct_storefront_header', 'tp_homepage_blocks', 10 );
