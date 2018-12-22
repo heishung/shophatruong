@@ -1,0 +1,85 @@
+2018-12-18T08:09:16+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:10:10+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:10:21+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:11:00+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:11:08+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:11:10+00:00 CRITICAL Uncaught Error: Class 'SiteOrigin_Panels_Widgets_PostContent' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('SiteOrigin_Pane...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\plugins\siteorigin-panels\siteorigin-panels.php(507): register_widget('SiteOrigin_Pane...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): SiteOrigin_Panels->widgets_init('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): W in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-12-18T08:27:47+00:00 CRITICAL Uncaught Error: Class 'WC_Widget_Custom_Products' not found in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(115): WP_Widget_Factory->register('WC_Widget_Custo...')
+#1 E:\xampp1\htdocs\wordpress\wp-content\themes\storefront\functions.php(77): register_widget('WC_Widget_Custo...')
+#2 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): load_custom_widgets('')
+#3 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 E:\xampp1\htdocs\wordpress\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 E:\xampp1\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 E:\xampp1\htdocs\wordpress\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 E:\xampp1\h in E:\xampp1\htdocs\wordpress\wp-includes\class-wp-widget-factory.php on line 100
+

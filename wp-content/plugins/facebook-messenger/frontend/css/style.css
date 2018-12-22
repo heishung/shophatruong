@@ -1,0 +1,177 @@
+#fbmsg-icon {
+    position: fixed;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    z-index: 99999;
+    border-radius: 50%;
+    padding: 6px;
+    opacity: 0;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#fbmsg-drop {
+    width: 100px;
+    height: 70px;
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    margin-left: -50px;
+    z-index: 99998;
+    /* visibility: hidden; */
+}
+
+.fbmsg-border {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    position: absolute;
+    left: 50%;
+    margin: 0 0 0 -20px;
+    background: rgba(0, 0, 0, 0.3);
+    bottom:-50px;
+    line-height: 1;
+}
+
+.fbmsg-border:after {
+    pointer-events: none;
+    content: '\00d7';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 100;
+    color: #fff;
+    margin:-20px 0 0 -20px;
+}
+
+.fbmsg-snap {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+
+#fbmsg-content {
+    max-width: 340px;
+    position: fixed;
+    display: none;
+    z-index: 99999;
+    background: #fff;
+    padding: 10px;
+    box-shadow: 0 0 4px #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0px 13px #ccc;
+    box-shadow: 0 0px 13px #ccc;
+}
+
+.send-app {
+    padding: 10px 8px;
+    border-top: 1px solid #defefe;
+    text-align: center;
+}
+
+.send-app a {
+    display: block;
+    padding: 3px 8px;
+    background-color: #0075ff;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.fbmsg-transition {
+    -webkit-transition: all 200ms;
+    -o-transition: all 200ms;
+    transition: all 200ms;
+}
+
+.anim-zoom {
+    -webkit-transition: all 200ms;
+    -o-transition: all 200ms;
+    transition: all 200ms;
+}
+
+.anim-zoom-in {
+    -webkit-animation: fbZoomIn 250ms ease both;
+    animation: fbZoomIn 250ms ease both;
+}
+
+.anim-zoom-out {
+    -webkit-animation: fbZoomOut 250ms ease both;
+    animation: fbZoomOut 250ms ease both;
+}
+
+@-webkit-keyframes fbZoomIn {
+    from {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+    to {
+        -webkit-transform: scale(1.65);
+        transform: scale(1.65)
+    }
+}
+
+@keyframes zoomIn {
+    from {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+    to {
+        -webkit-transform: scale(1.65);
+        transform: scale(1.65)
+    }
+}
+
+@-webkit-keyframes fbZoomOut {
+    from {
+        -webkit-transform: scale(1.65);
+        transform: scale(1.65)
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+
+@keyframes fbZoomOut {
+    from {
+        -webkit-transform: scale(1.65);
+        transform: scale(1.65)
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1)
+    }
+}
+
+/*******CSS by Tommy *********/
+
+a.nj-facebook-messenger {
+    text-decoration: none;
+}
+
+.dh-hide-on-desktop {
+    display: none;
+}
+
+@media only screen and (max-width: 767px) {
+    .dh-hide-on-desktop {
+        display: block;
+    }
+    #fbmsg-content {
+        max-width: 320px;
+        padding: 0;
+        overflow: hidden;
+    }
+}

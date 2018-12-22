@@ -1,0 +1,85 @@
+Sep 27, 2018 - Version 2.8.1
+- Added: <alt> tag
+- Improve: Clean code
+
+Apr 26, 2018 - Version 2.8
+- Fixed: Horizontal and vertical spacing option
+- Fixed: Some bugs
+
+Mar 9, 2018 - Version 2.7
+- Added: Horizontal spacing option
+- Fixed: Some small bugs
+
+Feb 28, 2018 - Version 2.6
+- Fixed: Icon jump on mobile when scroll
+- Changed: Live chat version is not included. It is separated here https://goo.gl/zURUz8
+
+Feb 8, 2018 (for Messenger Customer Chat) - Version 1.2 – BIG UPDATE
+- Added: Login with Facebook button to manage your Fan Page
+- Added: Option display on Mobile or Desktop
+- Added: Option display one page or post you want
+- Added: Option margin Messenger Chatbox from bottom (in some cases it obscures the to-top button)
+- Added: Icon position left or right
+- Added: Change color for Messenger icon, text and chatbox
+- Improved: No need to enter Page ID
+- Improved: No need to add your domain in whitelist
+- Improved: Work with non SSL website 
+- Improved: UI/UX
+- Fixed: Some small bugs
+
+Sep 30, 2017 - Version 2.5 - BIG UPDATE WITH NEW PLUGIN INCLUDED
+NOTE: With this update, you need to unzip the plugin file first, and select the Messenger Chat type you want to install
+
+- Added: NEW Messenger Realtime Customer Chat included, you can see the demo at: https://doopchat.com/
+- Fixed: Messenger Position
+- Improve: UI/UX, tab options
+- Fixed: Some bugs
+
+Jun 23, 2017 - Version 2.4
+- Added: Mobile display options
+- Added: Language display depends on WPML
+- Added: Provide 1-on-1 live chat support from Support menu
+- Added: New version notification
+- Fixed: Responsive display
+- Fixed: Some bugs
+
+Apr 27, 2017 - Version 2.3
+- Update: Tap in space to close popup on phone
+- Fixed: Don't scale big when typing on phone
+
+Feb 12, 2016 - Version 2.2 
+
+-Fixed: shortcode. You can use this shortcode to display in post, page or custom post type: [messenger url="https://www.facebook.com/ninjateam.org/" hide_cover="false" lagre_header="false" button="Send me a message"]
+
+Aug 23, 2016 - Version 2.1
+- Update: Upload icon/image popup
+- Update: Default icon button
+- Fixed: Small bugs
+
+Jun 27, 2016 - Version 2.0
+- Added: More settings
+- Added: Messenger icon position
+- Added: Messenger icon and image type
+- Added: Open Messenger app button on smartphone and tablet/ipad
+- Update: Display header cover option
+- Fixed: small CSS bugs
+- Note: The effect in this version still not smooth, we will update it soon.
+
+Jun 15, 2016 - Version 1.5
+- Update: Improved settings
+
+Jun 12, 2016 - Version 1.4
+- Fixed: small CSS bugs
+
+Jun 10, 2016 - Version 1.3
+- Added: Compatible with Facebook Live Chat plugin
+
+Jun 5, 2016 - Version 1.2
+- Added: Compatible with RTL languages
+
+Jun 1, 2016 - Version 1.1
+- Fixed: Change color for icon
+- Fixed: Padding-right of the box
+
+May 25, 2016 - Version 1.0
+- Version 1.0 Initial Release

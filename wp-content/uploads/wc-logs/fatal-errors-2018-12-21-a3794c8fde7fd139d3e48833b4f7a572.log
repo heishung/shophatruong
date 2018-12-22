@@ -1,0 +1,42 @@
+2018-12-21T02:21:59+00:00 CRITICAL Uncaught Error: Call to undefined function emty() in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\header.php:75
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 E:\xampp1\htdocs\wordpress\wp-includes\template.php(647): load_template('E:\\xampp1\\htdoc...', true)
+#2 E:\xampp1\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\page.php(1): get_header()
+#4 E:\xampp1\htdocs\wordpress\wp-includes\template-loader.php(74): include('E:\\xampp1\\htdoc...')
+#5 E:\xampp1\htdocs\wordpress\wp-blog-header.php(19): require_once('E:\\xampp1\\htdoc...')
+#6 E:\xampp1\htdocs\wordpress\index.php(17): require('E:\\xampp1\\htdoc...')
+#7 {main}
+  thrown in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\header.php on line 75
+
+2018-12-21T02:22:35+00:00 CRITICAL Uncaught Error: Call to undefined function emty() in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\header.php:76
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 E:\xampp1\htdocs\wordpress\wp-includes\template.php(647): load_template('E:\\xampp1\\htdoc...', true)
+#2 E:\xampp1\htdocs\wordpress\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\page.php(1): get_header()
+#4 E:\xampp1\htdocs\wordpress\wp-includes\template-loader.php(74): include('E:\\xampp1\\htdoc...')
+#5 E:\xampp1\htdocs\wordpress\wp-blog-header.php(19): require_once('E:\\xampp1\\htdoc...')
+#6 E:\xampp1\htdocs\wordpress\index.php(17): require('E:\\xampp1\\htdoc...')
+#7 {main}
+  thrown in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\header.php on line 76
+
+2018-12-21T02:54:44+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\icl\main_menu.php on line 7
+
+2018-12-21T08:11:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\template-trangchu.php:49
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 E:\xampp1\htdocs\wordpress\wp-blog-header.php(19): require_once('E:\\xampp1\\htdoc...')
+#2 E:\xampp1\htdocs\wordpress\index.php(17): require('E:\\xampp1\\htdoc...')
+#3 {main}
+  thrown in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\template-trangchu.php on line 49
+
+2018-12-21T08:11:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\template-trangchu.php:49
+Stack trace:
+#0 E:\xampp1\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 E:\xampp1\htdocs\wordpress\wp-blog-header.php(19): require_once('E:\\xampp1\\htdoc...')
+#2 E:\xampp1\htdocs\wordpress\index.php(17): require('E:\\xampp1\\htdoc...')
+#3 {main}
+  thrown in E:\xampp1\htdocs\wordpress\wp-content\themes\shopthoitranghatruong\template-trangchu.php on line 49
+
