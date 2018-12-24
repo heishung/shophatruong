@@ -42,7 +42,7 @@
 
 					<!-- nav -->
 					<nav class="nav" role="navigation">
-						<?php html5blank_nav(); ?>
+                        <?php wp_megamenu(array('menu' => '24')); ?>
 					</nav>
 					<!-- /nav -->
 

@@ -2,9 +2,391 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa728f9-e6af-4f9b-8689-ab1d42908662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/567090a1cc10b37cf0de658dcf96ef99-600x600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/tải-xuống-300x125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/uploads/wc-logs/wc-image-regeneration-2018-12-22-60bf188cad617d2ed794e3b0c69860e4.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/storefront/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shophatruong/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/shophatruong/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shophatruong/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/shophatruong/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/author.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/prettyPhoto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/price-range.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/fonts/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/icon_socail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/info_web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/main_menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/404/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/blog-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/blog-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/blog-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/man-four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/man-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/man-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/man-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/blog/socials.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/cart/one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/cart/three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/cart/two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/bg_border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/gallery1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/gallery2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/gallery3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/gallery4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/girl1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/girl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/girl3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/iframe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/iframe2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/iframe3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/iframe4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/partner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/partner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/partner3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/partner4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/pricing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/product6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/recommend1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/recommend2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/recommend3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/sale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/searchicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/home/shipping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/new.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/rating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/similar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/similar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/product-details/similar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/advertisement.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/images/shop/product9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/img/gravatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/img/icons/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/img/icons/touch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/gmaps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/jquery.prettyPhoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/jquery.scrollUp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/lib/conditionizr-4.3.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/lib/modernizr-2.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/price-range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/HTML5Blank.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/de_DE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/de_DE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/es_CL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/es_CL.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/es_ES.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/es_ES.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/fr_FR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/fr_FR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/hu_HU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/hu_HU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/it_IT.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/it_IT.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/nl_NL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/nl_NL.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/pt_BR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/pt_BR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/ro_RO.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/languages/ro_RO.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/loop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/normalize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/tag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-trangchu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/archive-product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/form-grant-access.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/form-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cart-empty.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cart-item-data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cart-shipping.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cart-totals.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/cross-sells.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/mini-cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/proceed-to-checkout-button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/cart/shipping-calculator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/cart-errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-billing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-coupon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-pay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/form-shipping.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/order-receipt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/payment-method.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/payment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/review-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/terms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/checkout/thankyou.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-product_cat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-single-product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-widget-product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-widget-reviews.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/admin-cancelled-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/admin-failed-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/admin-new-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-completed-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-invoice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-new-account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-note.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-on-hold-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-processing-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-refunded-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/customer-reset-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-addresses.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-customer-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-downloads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-order-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-order-items.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/email-styles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/admin-cancelled-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/admin-failed-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/admin-new-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-completed-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-invoice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-new-account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-note.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-on-hold-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-processing-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-refunded-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/customer-reset-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/email-addresses.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/email-customer-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/email-downloads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/email-order-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/emails/plain/email-order-items.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/breadcrumb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/form-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/quantity-input.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/wrapper-end.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/global/wrapper-start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/add-to-cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/loop-end.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/loop-start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/no-products-found.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/orderby.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/price.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/rating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/result-count.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/loop/sale-flash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/dashboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/downloads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-add-payment-method.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-edit-account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-edit-address.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-lost-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/form-reset-password.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/lost-password-confirmation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/my-account.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/my-address.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/my-downloads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/my-orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/navigation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/payment-methods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/myaccount/view-order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/notices/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/notices/notice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/notices/success.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/form-tracking.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/order-again.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/order-details-customer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/order-details-item.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/order-details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/order-downloads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/order/tracking.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/product-searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product-reviews.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/external.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/grouped.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/simple.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/variable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/variation-add-to-cart-button.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/add-to-cart/variation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/photoswipe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/price.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/product-attributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/product-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/product-thumbnails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/rating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/related.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/review-meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/review-rating.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/review.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/sale-flash.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/share.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/short-description.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/stock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/tabs/additional-information.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/tabs/description.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/tabs/tabs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/title.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product/up-sells.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/taxonomy-product_cat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/taxonomy-product_tag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/back-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/color-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/icon-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/customize-controls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/customize-preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/priority-menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/blocks/_blocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_elements.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_fields.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/layout/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_captions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_galleries.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/mixins/_mixins-master.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/mixins/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_accessibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_alignments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_clearings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_links.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-main-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-social-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_next-previous.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/_site.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/footer/_site-footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/header/_site-featured-image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/header/_site-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_archives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_posts-and-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/secondary/_widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_copy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_headings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_columns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_structure.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor-customizer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor-customizer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/header/entry-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/header/site-branding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/post/author-bio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/beanie-1-300x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/beanie-1-300x300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/beanie-1-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/beanie-1-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/logo-kenny_den.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/logo-kenny_den.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-2-300x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-2-300x300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-2-600x599.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-2-600x599.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-300x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-300x300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-600x599.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/polo-600x599.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/tshirt-1-300x300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/tshirt-1-300x300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/12/tshirt-1-600x600.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2018/12/tshirt-1-600x600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/wp-megamenu/wp-megamenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/wp-megamenu/wp-megamenu.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +399,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="425">
               <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
             </state>
           </provider>
@@ -26,26 +408,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
+            <state relative-caret-position="986">
               <caret line="71" selection-start-line="71" selection-end-line="71" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/functions.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/shophatruong/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1955">
-              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            <state relative-caret-position="644">
+              <caret line="44" selection-start-line="44" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-functions.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/shophatruong/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -105,6 +487,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-trangchu.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/storefront/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shophatruong/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shophatruong/functions.php" />
       </list>
     </option>
   </component>
@@ -120,7 +504,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,27 +527,21 @@
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="shopthoitranghatruong" type="462c0819:PsiDirectoryNode" />
+              <item name="shophatruong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
               <item name="wordpress" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="storefront" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wordpress" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordpress" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="storefront" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="shophatruong" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,18 +592,19 @@
       <workItem from="1545288292171" duration="145000" />
       <workItem from="1545295875399" duration="2486000" />
       <workItem from="1545356970919" duration="17786000" />
-      <workItem from="1545453168236" duration="979000" />
+      <workItem from="1545453168236" duration="1420000" />
+      <workItem from="1545617793194" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39857000" />
+    <option name="totallyTimeSpent" value="41736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14845759" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1503856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,234 +679,67 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/page.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/header.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-single-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="145" column="12" selection-start-line="145" selection-start-column="4" selection-end-line="367" selection-end-column="14" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/comments.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="37" column="10" selection-start-line="27" selection-start-column="4" selection-end-line="37" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/category.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/blog-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="146" selection-start-line="146" selection-end-line="457" selection-end-column="14" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="150" column="75" selection-start-line="150" selection-start-column="75" selection-end-line="150" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/icon_socail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/info_web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/main_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="113" column="76" selection-start-line="113" selection-start-column="76" selection-end-line="113" selection-end-column="76" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="901" column="16" selection-start-line="901" selection-end-line="1057" selection-end-column="27" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-demo.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/loop.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="617" column="14" selection-start-line="145" selection-start-column="4" selection-end-line="617" selection-end-column="14" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#23589#23596#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/sidebar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-trangchu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="57" column="84" selection-start-line="57" selection-start-column="84" selection-end-line="57" selection-end-column="84" />
-          <folding>
-            <element signature="n#section#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/auth/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/single-product.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/templates/content-single-product.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/blog.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/comments.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/404.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/404.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/category.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/archive.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/blog-single.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/single.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/header.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/icon_socail.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/info_web.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/single.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/icl/main_menu.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/index.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/content.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-demo.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/loop.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/eshopper/shop.html" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/sidebar.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/template-trangchu.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/functions.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="425">
           <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3944">
-          <caret line="232" selection-start-line="232" selection-end-line="232" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
+        <state relative-caret-position="986">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shopthoitranghatruong/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shophatruong/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1955">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        <state relative-caret-position="644">
+          <caret line="44" selection-start-line="44" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/storefront/inc/storefront-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="916">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shophatruong/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
         </state>
       </provider>
     </entry>
